@@ -1,0 +1,1 @@
+let MyArray = [ir_trabalhar, college, walmart, home ];
